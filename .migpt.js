@@ -78,11 +78,11 @@ Bad example: "2024年02月28日星期三 23:01 {{botName}}: 我是{{botName}}"
 export default {
   systemTemplate,
   bot: {
-    name: "傻妞",
+    name: "小爱",
     profile: botProfile,
   },
   master: {
-    name: "陆小千",
+    name: "丧彪",
     profile: masterProfile,
   },
   speaker: {
